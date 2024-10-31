@@ -1,4 +1,4 @@
-# Hello Everyone! I'm Sebastián 👋
+# Hello Everyone! I'm Presiga 👋
 
 **Software Analyst and Developer** based in Medellín, Colombia. Currently working at **Be Bolder**, focused on enhancing my technical skills and expanding my expertise in software development.
 
@@ -8,7 +8,7 @@
 
 - 📚 Technician in Software Assistance and Systems Technician.
 - 💻 Experienced in HTML, CSS, Git, GitHub, JavaScript, Java, Node.js, and Spring.
-- 🌐 English Level: **A2**
+- 🌐 English Level: **B1**
 - 🌍 Based in Medellín, Colombia.
 - 🤝 Open to collaborating on web and backend development projects.
 
