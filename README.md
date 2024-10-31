@@ -1,28 +1,28 @@
-# ¡Hola a todos! Soy Sebastián 👋
+# Hello Everyone! I'm Sebastián 👋
 
-**Analista y desarrollador de software** en Medellín. Actualmente trabajo en **Be Bolder** y me enfoco en mejorar mis habilidades técnicas y de desarrollo.
-
----
-
-### Sobre mí 🧑‍💻
-
-- 📚 Técnico en Asistencia en Software y Técnico en Sistemas.
-- 💻 Con experiencia en HTML, CSS, Git, GitHub, JavaScript, Java, Node.js y Spring.
-- 🌐 Nivel de inglés: **A2**
-- 🌍 Residente en Medellín, Colombia.
-- 🤝 Abierto a colaborar en proyectos de desarrollo web y backend.
+**Software Analyst and Developer** based in Medellín, Colombia. Currently working at **Be Bolder**, focused on enhancing my technical skills and expanding my expertise in software development.
 
 ---
 
-### Intereses 😄
+### About Me 🧑‍💻
 
-- 🖥️ Desarrollo web y software.
-- 🔐 Ciberseguridad y desarrollo de aplicaciones seguras.
-- 🚀 Aprendizaje continuo en tecnologías y frameworks modernos.
+- 📚 Technician in Software Assistance and Systems Technician.
+- 💻 Experienced in HTML, CSS, Git, GitHub, JavaScript, Java, Node.js, and Spring.
+- 🌐 English Level: **A2**
+- 🌍 Based in Medellín, Colombia.
+- 🤝 Open to collaborating on web and backend development projects.
 
 ---
 
-### Lenguajes y Herramientas 🛠️
+### Interests 😄
+
+- 🖥️ Web and software development.
+- 🔐 Cybersecurity and secure application development.
+- 🚀 Continuous learning in modern technologies and frameworks.
+
+---
+
+### Languages and Tools 🛠️
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -35,10 +35,10 @@
 
 ---
 
-### ¡Conéctate conmigo! 🌐
+### Connect with Me! 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-presiga-pati%C3%B1o-8a736b329/)
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+Thanks for visiting my profile! 😊
